@@ -44,5 +44,5 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 * ~6 luni incepand cu mai 2021
 
 ## Linkuri utile
-[https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)
+[https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)  
 [https://media.rovereshop.ro](https://media.rovereshop.ro)
