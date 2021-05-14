@@ -1,4 +1,4 @@
-![header](https://www.centrocucineoltrepo.it/wp-content/uploads/2015/03/FIORENZA.jpg)
+![header](https://media.rovereshop.ro/media/catalog/product/cache/2e1a23213d801a9f79509896615d7ce4/9/d/9d251dddea744f85b1a42ed05453d5c6.jpg)
 # Bucatarie Tudor
 Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a bucatariei
 
@@ -45,3 +45,4 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 
 ## Linkuri utile
 [https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)
+[https://media.rovereshop.ro](https://media.rovereshop.ro)
