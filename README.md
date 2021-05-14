@@ -1,3 +1,4 @@
+![header](https://www.centrocucineoltrepo.it/wp-content/uploads/2015/03/FIORENZA.jpg)
 # Bucatarie Tudor
 Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a bucatariei
 
@@ -13,7 +14,8 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 * solutie sertar tacamuri
 * scurgator vase
 * depozitare pahare
-* depozitare capace mari 
+* depozitare capace mari
+* depozitare fructe, legume
 * depozitare funduri de lemn (tocatoare)
 * corp cu sertare (macar 1)
 * incorporat masina de spalat vase existenta
@@ -42,4 +44,4 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 * ~6 luni incepand cu mai 2021
 
 ## Linkuri utile
-// TBD
+[https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)
