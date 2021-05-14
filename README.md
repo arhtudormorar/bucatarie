@@ -45,4 +45,4 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 
 ## Linkuri utile
 [https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)  
-[https://media.rovereshop.ro](https://media.rovereshop.ro)
+[https://rovereshop.ro](https://media.rovereshop.ro)
