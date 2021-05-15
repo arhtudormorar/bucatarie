@@ -40,5 +40,3 @@
 [Wine Glass Rack, Chrome Wire, for Wall Cabinets](https://www.hafele.co.uk/en/product/wine-glass-rack-chrome-wire-for-wall-cabinets/0000002e00026a6e00040023/)  
 
 ## Hota
-![Aida Built-In Cupboard Hood](https://www.airuno.co.uk/wp-content/uploads/2020/07/Aida-Built-in-Hood-Image-1-600x401.jpg)  
-[Aida Built-In Cupboard Hood](https://www.airuno.co.uk/product/aida-built-in-cupboard-hood/)  
