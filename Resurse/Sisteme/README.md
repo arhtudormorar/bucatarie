@@ -27,6 +27,9 @@
 ![Spice Rack Frame](https://www.hafele.co.uk/INTERSHOP/static/WFS/Haefele-HUK-Site/-/Haefele/en_GB/images/default/spice-and-packet-rack-three-tier-mesh-or-linear-wire-depth-55-mm_543.12.230_543.12.231_543.35.222_x/01743389_0.jpg)  
 [Spice Rack Frame](https://www.hafele.com/us/en/product/spice-rack-frame/0000005e0000a37600020023/)  
 
+![VARIERA](https://www.ikea.com/us/en/images/products/variera-flatware-tray-bamboo__0260472_pe404450_s5.jpg?f=s)  
+[VARIERA](https://www.ikea.com/us/en/p/variera-flatware-tray-bamboo-70263564/)  
+
 ![Plate Rack, for Fineline™ Base Plate](https://www.hafele.com/INTERSHOP/static/WFS/Haefele-HAC-Site/-/Haefele/en_US/images/default/plate-rack-for-finelinetm-base-plate_556.87.250_556.87.350_556.87.450_x/01634791_0.jpg)  
 [Plate Rack, for Fineline™ Base Plate](https://www.hafele.com/us/en/product/plate-rack-for-fineline-base-plate/000000dd0000f44900040023/)  
 
