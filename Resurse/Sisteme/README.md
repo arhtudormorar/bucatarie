@@ -11,3 +11,6 @@
 
 ![Pantry Frame, for Swing Pull-Out](https://www.hafele.com/INTERSHOP/static/WFS/Haefele-HAC-Site/-/Haefele/en_US/images/default/pantry-frame-for-swing-pull-out_546.69.241_546.69.243_546.69.244_x/01361732_0.jpg)  
 [Pantry Frame, for Swing Pull-Out](https://www.hafele.com/us/en/product/pantry-frame-for-swing-pull-out/000000be0002861000010023)  
+
+![Base Pull-Out, Full Extension Frame](https://www.hafele.com/INTERSHOP/static/WFS/Haefele-HAC-Site/-/Haefele/en_US/images/default/base-pull-out-full-extension-frame_545.59.268_x/01361660_0.jpg)  
+[Base Pull-Out, Full Extension Frame](https://www.hafele.com/us/en/product/base-pull-out-full-extension-frame/000000020002a84f00020023/)  
