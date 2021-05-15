@@ -17,12 +17,19 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 * depozitare capace mari
 * depozitare fructe, legume
 * depozitare funduri de lemn (tocatoare)
+* depozitare 2 sticle ulei, otet, sare, zahar, miere (acces facil)
+* depozitare condimente (acces facil)
+* depozitare ceaiuri (acces facil)
+* depozitare sticla 5l apa
+* depozitare tigai + oale mari folosite des la gatit
 * corp cu sertare (macar 1)
 * incorporat masina de spalat vase existenta
 * acces rezonabil la panoul de robineti de sub mobila (am uitat denumirea tehnica)
 * rezolvare cornisa mobila trecere teava gaz
 * incorporare in partea stanga a corpurilor de sus a icoanelor
 * corp mic cu usi + blat pe peretele de langa usa (de discutat)
+* compartiment plase
+* compartiment depozitare plasticuri
 
 
 ## Cerinte optionale
@@ -36,6 +43,7 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 
 ## Livrare
 * proiect de executie cu vederi, plan, perspectiva, axonometrie
+* interupatoare si trasee electrice (in colaborare cu electrician)
 * alegerea executantului (ca sa confirmam ca se poate realiza si ca o va realiza)
 * codurile materialelor + link-uri de la furnizor
 * urmarirea lucrarii
