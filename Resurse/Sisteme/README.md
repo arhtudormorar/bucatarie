@@ -27,6 +27,9 @@
 ![Spice Rack Frame](https://www.hafele.co.uk/INTERSHOP/static/WFS/Haefele-HUK-Site/-/Haefele/en_GB/images/default/spice-and-packet-rack-three-tier-mesh-or-linear-wire-depth-55-mm_543.12.230_543.12.231_543.35.222_x/01743389_0.jpg)  
 [Spice Rack Frame](https://www.hafele.com/us/en/product/spice-rack-frame/0000005e0000a37600020023/)  
 
+![Plate Rack, for Fineline™ Base Plate](https://www.hafele.com/INTERSHOP/static/WFS/Haefele-HAC-Site/-/Haefele/en_US/images/default/plate-rack-for-finelinetm-base-plate_556.87.250_556.87.350_556.87.450_x/01634791_0.jpg)  
+[Plate Rack, for Fineline™ Base Plate](https://www.hafele.com/us/en/product/plate-rack-for-fineline-base-plate/000000dd0000f44900040023/)  
+
 ![Wine Glass Rack, Chrome Wire, for Wall Cabinets](https://www.hafele.co.uk/INTERSHOP/static/WFS/Haefele-HUK-Site/-/Haefele/en_GB/images/default/wine-glass-rack-chrome-wire-for-wall-cabinets_544.10.200_544.10.202_544.10.203_x/01743395_0.jpg)  
 [Wine Glass Rack, Chrome Wire, for Wall Cabinets](https://www.hafele.co.uk/en/product/wine-glass-rack-chrome-wire-for-wall-cabinets/0000002e00026a6e00040023/)  
 
