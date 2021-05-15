@@ -33,7 +33,7 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 
 
 ## Cerinte optionale
-* solutie masa pentru 6 persoane
+* solutie masa pentru 6 persoane (bar?)
 * mascare calorifer?
 * rezolvare intersectie blat/perete cu geam
 
