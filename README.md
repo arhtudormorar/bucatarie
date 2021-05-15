@@ -55,4 +55,4 @@ Mediu de colaborare pentru executia si urmarirea proiectului de amenajare a buca
 [https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)  
 [https://www.rovereshop.ro](https://www.rovereshop.ro)
 ### Cosuri de gunoi
-[https://www.hafele.co.uk/en/product/waste-bin-tilting-30-litres/0000000d00018ac800010023/](Hafele Pull Out Tilting Kitchen Waste Bin 30 Litres For Min Cabinet Width 500mm)  
+[Hafele Pull Out Tilting Kitchen Waste Bin 30 Litres For Min Cabinet Width 500mm](https://www.hafele.co.uk/en/product/waste-bin-tilting-30-litres/0000000d00018ac800010023)  
