@@ -5,6 +5,9 @@
 ![Waste Bin Pull-Out, Häfele Matrix, Double](https://www.hafele.com/INTERSHOP/static/WFS/Haefele-HAC-Site/-/Haefele/en_US/images/huge/waste-bin-pull-out-haefele-matrix-double_503.15.222_503.15.224_503.15.722_x/01361456_0.jpg)  
 [Waste Bin Pull-Out, Häfele Matrix, Double](https://www.hafele.com/us/en/product/waste-bin-pull-out-haefele-matrix-double/0000009200011bc900020023/)   
 
+![Double-bin waste sorter](https://www.hafele.si/prod-live/static/WFS/Haefele-HAD-Site/-/Haefele/en_SI/images/huge/double-bin-waste-sorter-1-x-14-and-1-x-18-litres-franke-cube-50_502.76.303_x/01122062_0.jpg)  
+[Double-bin waste sorter](https://www.hafele.si/en/product/double-bin-waste-sorter-1-x-14-and-1-x-18-litres-franke-cube-50/50276303/)  
+
 ![Waste Bin System, Vauth-Sagel VS ENVI Fit](https://www.hafele.co.uk/INTERSHOP/static/WFS/Haefele-HUK-Site/-/Haefele/en_GB/images/default/waste-bin-system-vauth-sagel-vs-envi-fit_503.17.552_503.17.553_x/02067849_0.jpg)  
 [Maple Top Mount Waste Container](https://www.hafele.co.uk/en/product/waste-bin-system-vauth-sagel-vs-envi-fit/000000670001b65300020023/#SearchParameter=&Category=DMPAqBtGW4gAAAFP5sY4lnbm&checkbox_fs_waste_bin_installation=For+Drawer+Box&FF.followSearch=9950&@P.FF.followSearch=10000&PageNumber=1&OriginalPageSize=12&PageSize=12&Position=1&OrigPos=10596&ProductListSize=9)   
 
