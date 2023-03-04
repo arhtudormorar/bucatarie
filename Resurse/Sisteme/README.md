@@ -42,4 +42,7 @@
 ![Wine Glass Rack, Chrome Wire, for Wall Cabinets](https://www.hafele.co.uk/INTERSHOP/static/WFS/Haefele-HUK-Site/-/Haefele/en_GB/images/default/wine-glass-rack-chrome-wire-for-wall-cabinets_544.10.200_544.10.202_544.10.203_x/01743395_0.jpg)  
 [Wine Glass Rack, Chrome Wire, for Wall Cabinets](https://www.hafele.co.uk/en/product/wine-glass-rack-chrome-wire-for-wall-cabinets/0000002e00026a6e00040023/)  
 
+![Heavy Duty Mixer Lift with Shelf](https://rev-a-shelf.com/pub/media/catalog/product/cache/69612724e0fc617eda160144f2f4f32c/7/4/740b6295863123ec7751eea27db38fde0ecaf3735a163db9bbf287dcf91298b9.jpeg)  
+[Heavy Duty Mixer Lift with Shelf](https://rev-a-shelf.com/16775?)  
+
 ## Hota
