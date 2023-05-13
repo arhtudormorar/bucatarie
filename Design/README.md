@@ -3,13 +3,10 @@
 Link la [DWG](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Planuri%20DWG/Bucatarie%20dwg.dwg)  al bucatariei
 
 ## Cerinte de baza
-[] Construire model 3D al peretilor
-
-[] Construire model 3D al corpurilor
-
-[] Alegere materiale si culori
-
-[] 3-5 Randari cu solutia finala 
+- [] Construire model 3D al peretilor
+- [] Construire model 3D al corpurilor
+- [] Alegere materiale si culori
+- [] 3-5 Randari cu solutia finala 
 
 ## Cerinte de detaliu
 * [Modelul pentru usile pline](https://mobilasibiu.com/mobila/mobila-bucatarie-madalina-10036)  
