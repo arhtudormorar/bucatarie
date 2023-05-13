@@ -1,6 +1,6 @@
 
 # Cerinte design
-Link la [DWG](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Planuri%20DWG/Bucatarie%20dwg.dwg)  al bucatariei
+Link la [DWG](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Planuri%20DWG/Bucatarie%20dwg.dwg)  al bucatariei (click dreapta + save link as)
 
 ## Cerinte de baza
 - [] Construire model 3D al peretilor
