@@ -12,9 +12,11 @@
 * Alegerea modelului pentru usile de sticla sus
 * Mascarea centralei
 * Alegerea culorilor
-  * Sugestii:  
+  * Sugestii:  [varianta maro/verde](https://github.com/arhtudormorar/bucatarie/blob/main/Design/culori/culori%20varianta%201.jpeg)  
 
-* mascare calorifer?
+
+## Cerinte optionale
+* mascare calorifer
 * rezolvare intersectie blat/perete cu geam
 
 
