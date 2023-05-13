@@ -26,12 +26,15 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
   * #Varianta 3#: [masa OVALA extensibila Oqui Kave Home](https://www.thehome.ro/mese-dining/masa-dining-extensibila-alba-din-mdf-si-lemn-90x140-220-cm-oqui-kave-home)
 * Amplasare scaune
   * Varianta 1: [Scaun bucatarie BUC016](https://www.marcoshop-online.ro/scaun-bucatarie-buc016) 
+* Modelare cu rafturi laterale adiacent frigiderului care incorporeaza cuptorul
+  * Exemplu: [Corp lateral cu rafturi Mobexpert](https://mobexpert.ro/pages/bucataria-sofia) 
 
 ## Cerinte optionale
 * mascare calorifer
 * rezolvare intersectie blat/perete cu geam
-* Modelare cu rafturi laterale adiacent frigiderului care incorporeaza cuptorul
-  * Exemplu: [Corp lateral cu rafturi Mobexpert](https://mobexpert.ro/pages/bucataria-sofia) 
+* cornisa cu spoturi intre cele 2 corpuri adiacente mesei
+* placare perete masa intre faianta si cornisa (daca e viabil)
+
 
 ## Elemente care pot varia
 * materiale, culori, texturi
@@ -40,8 +43,8 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
 
 
 ## Livrare
-* 3-5 randari 
-* coduri de culori si materiale cu link la furnizor
+* 3-5 randari
+* coduri de culori
 
 ## Termen
 * ~4 saptamani incepand cu 15 mai 2023
