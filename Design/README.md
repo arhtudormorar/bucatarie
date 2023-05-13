@@ -18,6 +18,8 @@ Link la [DWG](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Planur
 * Alegerea culorilor
   * Sugestii:  [varianta maro/verde](https://github.com/arhtudormorar/bucatarie/blob/main/Design/culori/culori%20varianta%201.jpeg)  
 * Tratarea elmentului de colt cu care incepe mobilierul de sus
+  * Sugestie (dar pe curb sau 45°):  [Exemplu rafturi lateral](https://www.naturlich.ro/211916-large_default/bucatarie-virgo-alb-si-natur-front-mdf-vopsit-302-x-223-x-60-cm.jpg)
+  * Continuare pana jos pe blat?
 * Modelul cornisei
 * Iluminatul pentru noapte (poate si jos?)
 * Amplasare masa
@@ -28,9 +30,12 @@ Link la [DWG](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Planur
   * Varianta 1: [Scaun bucatarie BUC016](https://www.marcoshop-online.ro/scaun-bucatarie-buc016) 
 * Modelare cu rafturi laterale adiacent frigiderului care incorporeaza cuptorul
   * Exemplu: [Corp lateral cu rafturi Mobexpert](https://mobexpert.ro/pages/bucataria-sofia) 
+* Completarea faiantei pe stalp langa plita
 
 ## Cerinte optionale
 * mascare calorifer
+* alegerea lustrei
+* ilumiarea mesei
 * rezolvare intersectie blat/perete cu geam
 * cornisa cu spoturi intre cele 2 corpuri adiacente mesei
 * placare perete masa intre faianta si cornisa (daca e viabil)
