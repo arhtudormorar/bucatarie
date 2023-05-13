@@ -12,6 +12,8 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
 * [Modelul pentru usile pline](https://mobilasibiu.com/mobila/mobila-bucatarie-madalina-10036)  
 * Sa existe elemente de separare pe verticala (sau variatie) a corpurilor de sus
 * Alegerea modelului pentru usile de sticla sus
+* Modelare cu rafturi laterale adiacent frigiderului care incorporeaza cuptorul
+  * Exemplu: [masa rotunda extensibila Orbit The Home Collection](https://www.thehome.ro/mese-dining/masa-dining-extensibila-alb-din-mdf-si-ceramica-120-160-cm-orbit-the-home-collection) 
 * Modelarea celor 2 corpuri adiacente mesei
 * Mascarea centralei
   * Sugestii:  [varianta riflaj](https://github.com/arhtudormorar/bucatarie/blob/main/Design/centrala/mascare_centrala_01.jpeg)  
@@ -20,7 +22,12 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
 * Tratarea elmentului de colt cu care incepe mobilierul de sus
 * Modelul cornisei
 * Iluminatul pentru noapte (poate si jos?)
-
+* Amplasare masa
+  * Varianta 1: [masa rotunda extensibila Orbit The Home Collection](https://www.thehome.ro/mese-dining/masa-dining-extensibila-alb-din-mdf-si-ceramica-120-160-cm-orbit-the-home-collection) 
+  * Varianta 2: [masa rotunda extensibila Vashti Kave Home](https://www.thehome.ro/mese-dining/masa-dining-extensibila-alba-din-sticla-si-otel-120-160-cm-vashti-kave-home)
+  * #Varianta 3#: [masa OVALA extensibila Oqui Kave Home](https://www.thehome.ro/mese-dining/masa-dining-extensibila-alba-din-mdf-si-lemn-90x140-220-cm-oqui-kave-home)
+* Amplasare scaune
+  * Varianta 1: [Scaun bucatarie BUC016](https://www.marcoshop-online.ro/scaun-bucatarie-buc016) 
 
 ## Cerinte optionale
 * mascare calorifer
@@ -41,7 +48,3 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
 * ~4 saptamani incepand cu 15 mai 2023
 
 ## Linkuri utile
-[https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)  
-[https://www.rovereshop.ro](https://www.rovereshop.ro)
-### Cosuri de gunoi
-[Hafele Pull Out Tilting Kitchen Waste Bin 30 Litres For Min Cabinet Width 500mm](https://www.hafele.co.uk/en/product/waste-bin-tilting-30-litres/0000000d00018ac800010023)  
