@@ -12,8 +12,6 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
 * [Modelul pentru usile pline](https://mobilasibiu.com/mobila/mobila-bucatarie-madalina-10036)  
 * Sa existe elemente de separare pe verticala (sau variatie) a corpurilor de sus
 * Alegerea modelului pentru usile de sticla sus
-* Modelare cu rafturi laterale adiacent frigiderului care incorporeaza cuptorul
-  * Exemplu: [masa rotunda extensibila Orbit The Home Collection](https://www.thehome.ro/mese-dining/masa-dining-extensibila-alb-din-mdf-si-ceramica-120-160-cm-orbit-the-home-collection) 
 * Modelarea celor 2 corpuri adiacente mesei
 * Mascarea centralei
   * Sugestii:  [varianta riflaj](https://github.com/arhtudormorar/bucatarie/blob/main/Design/centrala/mascare_centrala_01.jpeg)  
@@ -32,7 +30,8 @@ Link la [DWG](github.com/arhtudormorar/bucatarie/tree/main/Design/Planuri%20DWG)
 ## Cerinte optionale
 * mascare calorifer
 * rezolvare intersectie blat/perete cu geam
-
+* Modelare cu rafturi laterale adiacent frigiderului care incorporeaza cuptorul
+  * Exemplu: [Corp lateral cu rafturi Mobexpert](https://mobexpert.ro/pages/bucataria-sofia) 
 
 ## Elemente care pot varia
 * materiale, culori, texturi
