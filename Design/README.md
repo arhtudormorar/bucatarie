@@ -1,18 +1,25 @@
 
 # Cerinte design
+Link la DWG al bucatariei
 
 ## Cerinte de baza
 [] Construire model 3D al peretilor
 [] Construire model 3D al corpurilor
 [] Alegere materiale si culori
-[] Randare 
+[] 3-5 Randari cu solutia finala 
 
 ## Cerinte de detaliu
-* Sa existe separare pe verticala sau variatie a corpurilor de sus
+* [Modelul pentru usile pline](https://mobilasibiu.com/mobila/mobila-bucatarie-madalina-10036)  
+* Sa existe elemente de separare pe verticala (sau variatie) a corpurilor de sus
 * Alegerea modelului pentru usile de sticla sus
+* Modelarea celor 2 corpuri adiacente mesei
 * Mascarea centralei
+  * Sugestii:  [varianta riflaj](https://github.com/arhtudormorar/bucatarie/blob/main/Design/centrala/mascare_centrala_01.jpeg)  
 * Alegerea culorilor
   * Sugestii:  [varianta maro/verde](https://github.com/arhtudormorar/bucatarie/blob/main/Design/culori/culori%20varianta%201.jpeg)  
+* Tratarea elmentului de colt cu care incepe mobilierul de sus
+* Modelul cornisei
+* Iluminatul pentru noapte (poate si jos?)
 
 
 ## Cerinte optionale
@@ -20,18 +27,18 @@
 * rezolvare intersectie blat/perete cu geam
 
 
-## Libertati
-* materiale, culori, modele, cornisa, sisteme 
+## Elemente care pot varia
+* materiale, culori, texturi
+* goluri ale mobilei de sus
+* primul corp de jos + cele din dreptul peretelui care iese
+
 
 ## Livrare
-* proiect de executie cu vederi, plan, perspectiva, axonometrie
-* interupatoare si trasee electrice (in colaborare cu electrician)
-* alegerea executantului (ca sa confirmam ca se poate realiza si ca o va realiza)
-* codurile materialelor + link-uri de la furnizor
-* urmarirea lucrarii
+* 3-5 randari 
+* coduri de culori si materiale cu link la furnizor
 
 ## Termen
-* ~6 luni incepand cu mai 2021
+* ~4 saptamani incepand cu 15 mai 2023
 
 ## Linkuri utile
 [https://www.centrocucineoltrepo.it](https://www.centrocucineoltrepo.it/)  
