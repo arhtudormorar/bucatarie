@@ -12,7 +12,9 @@ Link la [DWG](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Planur
 * [Modelul pentru usile pline](https://mobilasibiu.com/mobila/mobila-bucatarie-madalina-10036)  
 * Sa existe elemente de separare pe verticala (sau variatie) a corpurilor de sus
 * Alegerea modelului pentru usile de sticla sus
+  * Varianta 1: [Model simplu cruce](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Exemple/Corp%20lateral%20masa%20si%20sticla.png)
 * Modelarea celor 2 corpuri adiacente mesei
+  * Varianta 1: [Sticla sus si plin jos](https://github.com/arhtudormorar/bucatarie/blob/main/Design/Exemple/Corp%20lateral%20masa%20si%20sticla.png)
 * Mascarea centralei
   * Sugestii:  [varianta riflaj](https://github.com/arhtudormorar/bucatarie/blob/main/Design/centrala/mascare_centrala_01.jpeg)  
 * Alegerea culorilor
